@@ -73,11 +73,12 @@
 </div>
 
 ###
-
+<h3 align="left">🎧   Music :</h3>
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
+<h3 align="left">🍃   Vibes :</h3>
 <div align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/m/L_g_GnYAkPwAAAAC/anime-love.gif" width="46%" height="auto"  />
 </div>
