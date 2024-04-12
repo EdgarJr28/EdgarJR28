@@ -79,7 +79,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 <div align="center">
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/44/eb/c3/44ebc3095a5deba2973f0e5fd3fb92b5.gif" width="46%" height="auto"  />
+<img align="center" alt="GIF" src="https://media1.tenor.com/m/L_g_GnYAkPwAAAAC/anime-love.gif" width="46%" height="auto"  />
 </div>
 <br>
 <!--
