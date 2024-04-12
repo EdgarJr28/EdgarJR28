@@ -1,11 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
-    <style>
-        * {
-            font-family: "Tilt Neon", sans-serif;
-            color: red;
-        }
-    </style>
-    
 <div align="center" style="border-radius: 10px; ">
   <img height="150" src="https://avatars.githubusercontent.com/u/52712528?s=400&u=1913c62e384bc8ee5645d8794592b7f4b7b40f5e&v=4"  />
 </div>
