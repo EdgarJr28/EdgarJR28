@@ -1,4 +1,4 @@
-
+<br>
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/52712528?s=400&u=1913c62e384bc8ee5645d8794592b7f4b7b40f5e&v=4"  />
 </div>
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 ###
 
@@ -26,9 +26,10 @@
 
 ###
 
-<p align="left">I'm from Colombia 🇨🇴<br><br>
+<p align="center">I'm from Colombia 🇨🇴<br><br>
 - 📚 I'm currently  learning about systems engineering, which involves designing, analyzing, and optimizing complex systems to meet specific needs or solve problems efficiently.<br>
--  ⚡ In my free time I enjoy coding projects, exploring new software, and engaging in online discussions to enhance my understanding of systems engineering.
+-  ⚡ In my free time I enjoy coding projects, exploring new software, and engaging in online discussions to enhance my understanding of systems engineering. <br>
+-  📫 How to reach me : <a href="mailto:edgarjr-10@hotmail.com"> Edgarjr-10@hotmail.com </a>
 </p>
 
 ###
@@ -73,8 +74,14 @@
 
 ###
 
+<div align="center">
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
+<div align="center">
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/44/eb/c3/44ebc3095a5deba2973f0e5fd3fb92b5.gif" width="46%" height="auto"  />
+</div>
+<br>
 <!--
 **EdgarJr28/EdgarJR28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
