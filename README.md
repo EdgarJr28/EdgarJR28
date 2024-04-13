@@ -76,7 +76,7 @@
 <h3 align="left">🎧   Music :</h3>
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)]
 </div>
 <h3 align="left">🍃   Vibes :</h3>
 <div align="center">
