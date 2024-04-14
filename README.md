@@ -65,7 +65,7 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJR28&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJR28&size_weight=0.5&count_weight=0.5&theme=transparent" />
 </div>
 <br>
 <div align="center">
