@@ -85,7 +85,7 @@
 <br>
 
 <div align="center">
-<img align="center" alt="GIF" src="[https://media1.tenor.com/m/L_g_GnYAkPwAAAAC/anime-love.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzZzAzM3Z3NXhxaGxzMmd4bWhpdDQ3cWo2c3pzdm93ZWprMGd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LM51zyLF5ivI3JVCtL/giphy.gif)" width="46%" height="auto"  />
+<img align="center" alt="GIF" src=(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzZzAzM3Z3NXhxaGxzMmd4bWhpdDQ3cWo2c3pzdm93ZWprMGd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LM51zyLF5ivI3JVCtL/giphy.gif)" width="46%" height="auto"  />
 </div>
 <!--
 **EdgarJr28/EdgarJR28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
