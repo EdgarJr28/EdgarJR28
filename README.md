@@ -30,14 +30,9 @@
 -  📚 I'm currently  learning about systems engineering, which involves designing, analyzing, and optimizing complex systems to meet specific needs or solve problems efficiently.<br>
 -  ⚡ In my free time I enjoy coding projects, exploring new software, and engaging in online discussions to enhance my understanding of systems engineering. <br>
 -  📫 How to reach me : <a href="mailto:edgarjr-10@hotmail.com"> Edgarjr-10@hotmail.com </a><br>
-
+-  🔗 My website: <a href="https://ed-portafolio.vercel.app/" target="_blank">Portfolio</a>
 </p>
 <div align="center">
--🔗 My website
-  
- ![My Portfolio](https://ed-portafolio.vercel.app/)
- 
-</div>
 
 ###
 
