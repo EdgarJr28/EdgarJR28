@@ -67,11 +67,11 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJR28&size_weight=0.5&count_weight=0.5&theme=transparent" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EdgarJr28" alt="GitHub Streak" /></a>
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EdgarJr28&theme=transparent&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EdgarJR28" alt="GitHub Streak" /></a>
 </div>
 
 ###
