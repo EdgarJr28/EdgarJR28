@@ -70,10 +70,6 @@ reach_me:  edgarjr-10@hotmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EdgarJr28&theme=ayu-mirage&background=45%2C0D1117%2C0D1117&stroke=0D1117&fire=FC3215&ring=0077B5&currStreakNum=0077B5&currStreakLabel=0077B5&dates=0077B5&excludeDaysLabel=0077B5&sideNums=0077B5&sideLabels=0077B5)](https://git.io/streak-stats)
 
-<br/><br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=EdgarJr28&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=0077B5" alt="trophies" />
-
 </div>
 
 <!-- ═══════════════════════════════ SNAKE ════════════════════════════════ -->

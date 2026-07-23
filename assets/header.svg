@@ -181,5 +181,5 @@
 <line x1="150" y1="40" x2="90" y2="22" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="1.1s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;150 50" dur="1.1s" begin="0s" repeatCount="indefinite"/></line>
 <line x1="900" y1="30" x2="840" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;0.9;0" dur="1.1s" begin="2.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;200 90" dur="1.1s" begin="2.2s" repeatCount="indefinite"/></line>
 <text x="600.0" y="105" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" letter-spacing="1">Edgar Maldonado</text>
-<text x="600.0" y="145" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#0077B5">Systems Engineer  |  Full-Stack Developer from Colombia</text>
+<text x="600.0" y="145" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#79c0ff">Systems Engineer  |  Full-Stack Developer from Colombia</text>
 </svg>
