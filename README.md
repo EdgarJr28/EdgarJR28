@@ -26,8 +26,6 @@
 
 </div>
 
-<img align="right" width="38%" src="https://avatars.githubusercontent.com/u/52712528?s=400&u=1913c62e384bc8ee5645d8794592b7f4b7b40f5e&v=4" style="border-radius:12px;" />
-
 ```yaml
 name:      Edgar Maldonado
 role:      Systems Engineer
@@ -71,6 +69,24 @@ reach_me:  edgarjr-10@hotmail.com
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EdgarJr28&theme=ayu-mirage&background=45%2C0D1117%2C0D1117&stroke=0D1117&fire=FC3215&ring=0077B5&currStreakNum=0077B5&currStreakLabel=0077B5&dates=0077B5&excludeDaysLabel=0077B5&sideNums=0077B5&sideLabels=0077B5)](https://git.io/streak-stats)
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=EdgarJr28&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=0077B5" alt="trophies" />
+
+</div>
+
+<!-- ═══════════════════════════════ SNAKE ════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdgarJr28/EdgarJr28/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdgarJr28/EdgarJr28/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/EdgarJr28/EdgarJr28/output/snake.svg" />
+</picture>
 
 </div>
 
