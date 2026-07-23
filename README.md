@@ -1,173 +1,110 @@
-<br>
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/52712528?s=400&u=1913c62e384bc8ee5645d8794592b7f4b7b40f5e&v=4"  />
-</div>
-
-###
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edgar-maldonado-5619171a0">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+<img width="100%" src="./assets/header.svg" alt="Edgar Maldonado - starry sky header" />
+
 </div>
 
-###
+<!-- ═══════════════════════════════ SOCIALS ══════════════════════════════ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-maldonado-5619171a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ed-portafolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-FC3215?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarjr-10@hotmail.com)
+
+</div>
+
+<!-- ═══════════════════════════════ ABOUT ════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=520&lines=Systems+Engineer+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Full-Stack+Developer+%7C+JS+%E2%80%A2+TS+%E2%80%A2+.NET;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+</div>
+
+<img align="right" width="38%" src="https://avatars.githubusercontent.com/u/52712528?s=400&u=1913c62e384bc8ee5645d8794592b7f4b7b40f5e&v=4" style="border-radius:12px;" />
+
+```yaml
+name:      Edgar Maldonado
+role:      Systems Engineer
+location:  Colombia 🇨🇴
+focus:     Designing, analyzing & optimizing complex systems
+learning:  Systems engineering & software architecture
+hobbies:   Coding side-projects, exploring new tech, dev communities
+reach_me:  edgarjr-10@hotmail.com
+```
+
+- 🔭 &nbsp;Building full-stack projects end to end
+- 🌱 &nbsp;Diving deeper into software architecture & clean design
+- 💬 &nbsp;Ask me about **JavaScript, TypeScript, React, NestJS**
+- ⚡ &nbsp;Fun fact: I optimize systems for fun, not just for work
+
+<br clear="both" />
+
+<!-- ═══════════════════════════════ STACK ════════════════════════════════ -->
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<!-- ═══════════════════════════════ STATS ════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdgarJr28&theme=ayu-mirage&background=45%2C0D1117%2C0D1117&stroke=0D1117&fire=FC3215&ring=0077B5&currStreakNum=0077B5&currStreakLabel=0077B5&dates=0077B5&excludeDaysLabel=0077B5&sideNums=0077B5&sideLabels=0077B5)](https://git.io/streak-stats)
+
+</div>
+
+<!-- ═══════════════════════════════ MUSIC ════════════════════════════════ -->
+
+## 🎧 Now Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=0077b5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<!-- ═══════════════════════════════ VIBES ════════════════════════════════ -->
+
+## 🍃 Vibes
+
+<div align="center">
+
+<img alt="Vibes" src="https://media1.tenor.com/m/L_g_GnYAkPwAAAAC/anime-love.gif" width="46%" />
+
+</div>
+
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+
+⭐️ From [EdgarJr28](https://github.com/EdgarJr28)
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EdgarJR28.visitor-badge"  />
 </div>
 
-###
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm from Colombia 🇨🇴<br><br>
--  📚 I'm currently  learning about systems engineering, which involves designing, analyzing, and optimizing complex systems to meet specific needs or solve problems efficiently.<br>
--  ⚡ In my free time I enjoy coding projects, exploring new software, and engaging in online discussions to enhance my understanding of systems engineering. <br>
--  📫 How to reach me : <a href="mailto:edgarjr-10@hotmail.com"> Edgarjr-10@hotmail.com </a><br>
--  🔗 My website: <a href="https://ed-portafolio.vercel.app/" target="_blank">Portfolio</a>
-</p>
-<div align="center">
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<!--
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
--->
 </div>
-
-###
-
-
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EdgarJr28" alt="GitHub Streak" /></a>
-</div>
-
-###
-<h3 align="left">🎧   Music :</h3>
-<div align="center">
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12179838533&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=true&bar_color=transparent&bar_color_cover=true)
-</div>
-<h3 align="left">🍃   Vibes :</h3>
-<div align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/m/L_g_GnYAkPwAAAAC/anime-love.gif" width="46%" height="auto"  />
-</div>
-<br>
-
-<h3 align="left">⛩️   AEOM :</h3>
-<div align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVma3M5cTN6NGU1YmdvYnczbDQ0bmdxZTE0OHhvdmppbWk2NzQ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LM51zyLF5ivI3JVCtL/giphy.gif" width="46%" height="auto"  />
-</div>
-<!--
-**EdgarJr28/EdgarJR28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Markdown syntax guide
-
-## Headers
-
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
